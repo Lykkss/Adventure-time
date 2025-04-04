@@ -2,7 +2,7 @@
 
 ## Description
 
-ConsoleApp est un jeu d'aventure textuel simple où le joueur doit prendre des décisions pour progresser dans l'histoire. Le joueur commence dans une forêt et doit choisir des directions et des actions pour atteindre son objectif final.
+Adventure-time est un jeu d'aventure textuel simple où le joueur doit prendre des décisions pour progresser dans l'histoire. Le joueur commence dans une forêt et doit choisir des directions et des actions pour atteindre son objectif final.
 
 ## Instructions du jeu
 
